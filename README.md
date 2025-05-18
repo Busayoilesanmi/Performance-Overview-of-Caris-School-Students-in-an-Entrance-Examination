@@ -86,19 +86,19 @@ Columns: Gender, caste, entrance exam result, coaching status, mother’s occupa
 
 ### Important Features and Their Significance
 
-Caste Group: General (299), OBC (154), ST (103), SC (66) – essential for tracking equity and representation.
+- Caste Group: General (299), OBC (154), ST (103), SC (66) – essential for tracking equity and representation.
 
-Gender: Male (288), Female (334) – identifies gender-specific patterns.
+- Gender: Male (288), Female (334) – identifies gender-specific patterns.
 
-Study Time: 2 hours (339), 1 hour (185), 3 hours (85), 4 hours (11), 5 hours (1), 7 hours (1) – to assess ideal preparation time.
+- Study Time: 2 hours (339), 1 hour (185), 3 hours (85), 4 hours (11), 5 hours (1), 7 hours (1) – to assess ideal preparation time.
 
-Coaching: WA (413), NO (144), OA (65) – quantifies the impact of coaching.
+- Coaching: WA (413), NO (144), OA (65) – quantifies the impact of coaching.
 
-Language Medium: English (495), Others (71), Assamese (56) – determines the influence of instruction language.
+- Language Medium: English (495), Others (71), Assamese (56) – determines the influence of instruction language.
 
-Class 10 Board: SEBA (375), CBSE (226), Others (21) – identifies performance trends by board.
+- Class 10 Board: SEBA (375), CBSE (226), Others (21) – identifies performance trends by board.
 
-Mother’s Occupation: Housewife (407), School Teacher (104), Others (68), College Teacher (19), Doctor (13) – gauges socioeconomic effects.
+- Mother’s Occupation: Housewife (407), School Teacher (104), Others (68), College Teacher (19), Doctor (13) – gauges socioeconomic effects.
 
 ### Data Limitations or Biases:
 
